@@ -94,5 +94,3 @@ http://192.168.3.198:7088/udp/239.252.219.110:5140
 http://192.168.3.198:7088/udp/239.252.219.46:5140
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://192.168.3.198:7088/udp/239.252.219.107:5140
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="超清频道",北京卫视4K
-http://192.168.3.198:7088/udp/239.252.219.206:5140
