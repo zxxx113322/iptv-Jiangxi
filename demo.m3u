@@ -146,12 +146,14 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221225753/iptv101723.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226821/59781859.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",深圳卫视-4K
 rtsp://115.153.247.80/PLTV/88888888/224/3221225609/iptv7995.smil
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实-高清
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南-金鹰纪实-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226823/59781863.smil
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",先锋乒羽
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",湖南-先锋乒羽
 rtsp://115.153.247.80/PLTV/88888888/224/3221226935/72307307.smil
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通-高清
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",湖南-金鹰卡通-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226972/80382319.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南-茶-高清
+rtsp://115.153.247.80/PLTV/88888888/224/3221226832/59781969.smil
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227076/108965819.smil
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1-高清
@@ -182,9 +184,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227068/95616594.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226797/59781463.smil
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226808/59781526.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",茶-高清
-rtsp://115.153.247.80/PLTV/88888888/224/3221226832/59781969.smil
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓-高
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",湖南-快乐垂钓-高
 rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226822/59781815.smil
