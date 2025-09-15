@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
+
 #EXTINF-1 tvg-id=1 tvg-name=CCTV1 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV1.png group-title=央视,CCTV1-高清
 rtsp115.153.247.80PLTV888888882243221225699iptv8040.smil
 #EXTINF-1 tvg-id=2 tvg-name=CCTV2 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV2.png group-title=央视,CCTV2-高清
