@@ -161,7 +161,7 @@ rtp://239.252.220.129:5140
 rtp://239.252.219.59:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经
 rtp://239.252.219.57:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",茶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南-茶频道
 rtp://239.252.220.160:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西经济生活
 rtp://239.252.220.110:5140
