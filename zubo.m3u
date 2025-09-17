@@ -110,7 +110,7 @@ rtp://239.252.219.46:5140
 rtp://239.252.219.107:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视.png" group-title="卫视频道",北京卫视
 rtp://239.252.219.206:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西,江西都市频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西都市频道
 rtp://239.252.220.109:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西经济生活频道
 rtp://239.252.219.173:5140
