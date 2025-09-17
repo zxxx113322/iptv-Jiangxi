@@ -385,7 +385,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/01.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226221/01.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="移动-央视",CCTV1综合-高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226225/01.m3u8
-##EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="移动-央视",CCTV2财经-高清
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="移动-央视",CCTV2财经-高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="移动-央视",CCTV2财经-高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/01.m3u8
