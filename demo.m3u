@@ -46,7 +46,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226962/77799052.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 #EXTINF:-1 tvg-id="6569" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="央视",CCTV央视文化精品-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央视",CCTV电视指南-高清
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央视",电视指南-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 #EXTINF:-1 tvg-id="6558" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视",CCTV第一剧场-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
