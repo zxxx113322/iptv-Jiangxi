@@ -66,12 +66,8 @@ rtp://239.252.219.229:5140
 rtp://239.252.219.206:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
 rtp://239.252.219.212:5140
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
-rtp://239.252.219.57:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道",广东卫视
 rtp://239.252.219.213:5140
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="卫视频道",广东卫视4K
-rtp://239.252.219.63:5140
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
 rtp://239.252.220.83:5140
 #EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道",天津卫视
@@ -126,6 +122,8 @@ rtp://239.252.220.251:5140
 rtp://239.252.219.63:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K超高清
 rtp://239.252.220.251:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K超高清
+rtp://239.252.219.57:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视4K超高清
 rtp://239.252.219.120:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视4K超高清
