@@ -129,7 +129,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221225609/iptv7995.smil
 #EXTINF:-1 tvg-id="50" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视",江西卫视-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226656/46275837.smil
 
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png",湖南卫视4K超高清
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视",湖南卫视4K超高清
 rtsp://115.153.232.119:554/PLTV/88888888/224/3221227281/125163700.smil?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视",浙江卫视4K超高清
 rtsp://115.153.215.122:554/PLTV/88888888/224/3221227280/125163699.smil?
