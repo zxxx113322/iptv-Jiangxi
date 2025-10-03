@@ -33,9 +33,13 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226634/51813368.smil
 #EXTINF:-1 tvg-id="16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视",CCTV15音乐-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226988/85722541.smil
 #EXTINF:-1 tvg-id="7249" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视",CCTV16奥林匹克-4K
+rtsp://115.153.232.124:554/PLTV/88888888/224/3221227266/122339613.smil?
+#EXTINF:-1 tvg-id="7249" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视",CCTV16奥林匹克-4K
 rtsp://115.153.247.80/PLTV/88888888/224/3221227051/92603106.smil
 #EXTINF:-1 tvg-id="17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视",CCTV17农业农村-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226846/61397282.smil
+#EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV超高清-4K
+rtsp://115.153.232.70:554/PLTV/88888888/224/3221227264/121457958.smil?
 #EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV超高清-4K
 rtsp://115.153.247.80/PLTV/88888888/224/3221227073/106537394.smil
 #EXTINF:-1 tvg-id="4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
