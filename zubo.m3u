@@ -147,11 +147,11 @@ rtp://239.252.219.115:5140
 rtp://239.252.219.43:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西少儿.png" group-title="江西",江西少儿
 rtp://239.252.219.113:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江1新闻综合
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江新闻综合
 rtp://239.252.220.176:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江2新闻综合
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江公共
 rtp://239.252.219.167:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江3教育频道
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江教育
 rtp://239.252.219.56:5140
 #EXTINF:-1 group-title="江西",赣州新闻
 rtp://239.252.220.252:5140
