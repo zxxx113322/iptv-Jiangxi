@@ -172,6 +172,12 @@ rtsp://115.153.232.105:554/PLTV/88888888/224/3221227078/113409131.smil?
 rtsp://115.153.215.113:554/PLTV/88888888/224/3221227075/113409249.smil?
 #EXTINF:-1 group-title="江西",南昌3资讯频道
 rtsp://115.153.254.81/PLTV/88888888/224/3221227080/113409255.smil?
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江新闻综合
+rtsp://115.153.245.70/PLTV/88888888/224/3221227268/122499157.smil
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江公共
+rtsp://115.153.245.70/PLTV/88888888/224/3221227270/122499168.smil
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="江西",九江教育
+rtsp://115.153.245.70/PLTV/88888888/224/3221227272/122501308.smil
 #EXTINF:-1 group-title="江西",赣州新闻综合
 rtsp://115.153.230.145/PLTV/88888888/224/3221227254/121266741.smil
 #EXTINF:-1 group-title="江西",赣州公共
