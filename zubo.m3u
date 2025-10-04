@@ -106,13 +106,13 @@ rtp://239.252.219.46:5140
 rtp://239.252.219.107:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
 rtp://239.252.219.206:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道",湖南卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K超高清
 rtp://239.252.219.43:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K超高清
 rtp://239.252.220.13:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道",江苏卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K超高清
 rtp://239.252.220.12:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="卫视频道",东方卫视4K超高清
 rtp://239.252.220.159:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="卫视频道",北京卫视4K超高清
 rtp://239.252.220.250:5140
@@ -124,10 +124,11 @@ rtp://239.252.219.63:5140
 rtp://239.252.220.251:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K超高清
 rtp://239.252.219.57:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道",山东卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="卫视频道",山东卫视4K超高清
 rtp://239.252.219.120:5140
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="卫视频道",四川卫视4K超高清
 rtp://239.252.219.119:5140
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西都市.png" group-title="江西",江西都市
 rtp://239.252.220.109:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西经济生活.png" group-title="江西",江西经济生活
