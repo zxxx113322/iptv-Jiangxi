@@ -134,15 +134,15 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226821/59781859.smil
 #EXTINF:-1 tvg-id="50" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视",江西卫视-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226656/46275837.smil
 
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视",湖南卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K超高清
 rtsp://115.153.232.119:554/PLTV/88888888/224/3221227281/125163700.smil?
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视",浙江卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="卫视",浙江卫视4K超高清
 rtsp://115.153.215.122:554/PLTV/88888888/224/3221227280/125163699.smil?
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="卫视",江苏卫视4K超高清
 rtsp://115.153.215.118:554/PLTV/88888888/224/3221227279/125163739.smil?
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视",东方卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="卫视",东方卫视4K超高清
 rtsp://115.153.232.119:554/PLTV/88888888/224/3221227277/125160359.smil?
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="卫视",北京卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="卫视",北京卫视4K超高清
 rtsp://10.191.254.214:554/PLTV/88888888/224/3221227250/119886708.smil?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="卫视",广东卫视4K超高清
 rtsp://115.153.232.124:554/PLTV/88888888/224/3221227267/122676407.smil?
@@ -150,9 +150,9 @@ rtsp://115.153.232.124:554/PLTV/88888888/224/3221227267/122676407.smil?
 rtsp://115.153.232.195:554/PLTV/88888888/224/3221227269/122676542.smil?
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="卫视",深圳卫视4K超高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221225609/iptv7995.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视",山东卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="卫视",山东卫视4K超高清
 rtsp://115.153.232.118:554/PLTV/88888888/224/3221227282/125164357.smil?
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视",四川卫视4K超高清
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="卫视",四川卫视4K超高清
 rtsp://115.153.232.120:554/PLTV/88888888/224/3221227284/125164272.smil?
 
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西都市.png" group-title="江西",江西都市-高清
