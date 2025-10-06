@@ -32,12 +32,8 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227037/87447722.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226634/51813368.smil
 #EXTINF:-1 tvg-id="16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="电信-央视",CCTV15音乐-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226988/85722541.smil
-#EXTINF:-1 tvg-id="7249" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="电信-央视",CCTV16奥林匹克-4K
-rtsp://115.153.247.80/PLTV/88888888/224/3221227051/92603106.smil
 #EXTINF:-1 tvg-id="17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="电信-央视",CCTV17农业农村-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226846/61397282.smil
-#EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="电信-央视",CCTV超高清-4K
-rtsp://115.153.247.80/PLTV/88888888/224/3221227073/106537394.smil
 #EXTINF:-1 tvg-id="4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="电信-央视",CCTV4欧洲
 rtsp://115.153.247.80/PLTV/88888888/224/3221226964/77799053.smil
 #EXTINF:-1 tvg-id="4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="电信-央视",CCTV4美洲
@@ -46,7 +42,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226962/77799052.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 #EXTINF:-1 tvg-id="6569" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="电信-央视",CCTV央视文化精品-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="电信-央视",CCTV电视指南-高清
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="电信-央视",电视指南-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 #EXTINF:-1 tvg-id="6558" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="电信-央视",CCTV第一剧场-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
@@ -124,10 +120,37 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221225550/iptv61197.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221225753/iptv101723.smil
 #EXTINF:-1 tvg-id="45" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="电信-卫视",河北卫视-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226821/59781859.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="电信-卫视",深圳卫视-4K
-rtsp://115.153.247.80/PLTV/88888888/224/3221225609/iptv7995.smil
 #EXTINF:-1 tvg-id="50" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="电信-卫视",江西卫视-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226656/46275837.smil
+
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="电信-超高清",湖南卫视4K超高清
+rtsp://115.153.232.119:554/PLTV/88888888/224/3221227281/125163700.smil?
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="电信-超高清",浙江卫视4K超高清
+rtsp://115.153.215.122:554/PLTV/88888888/224/3221227280/125163699.smil?
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="电信-超高清",江苏卫视4K超高清
+rtsp://115.153.215.118:554/PLTV/88888888/224/3221227279/125163739.smil?
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="电信-超高清",东方卫视4K超高清
+rtsp://115.153.232.119:554/PLTV/88888888/224/3221227277/125160359.smil?
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="电信-超高清",北京卫视4K超高清
+rtsp://10.191.254.214:554/PLTV/88888888/224/3221227250/119886708.smil?
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="电信-超高清",广东卫视4K超高清
+rtsp://115.153.232.124:554/PLTV/88888888/224/3221227267/122676407.smil?
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="电信-超高清",深圳卫视4K超高清
+rtsp://115.153.232.195:554/PLTV/88888888/224/3221227269/122676542.smil?
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="电信-超高清",深圳卫视4K超高清
+rtsp://115.153.247.80/PLTV/88888888/224/3221225609/iptv7995.smil
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="电信-超高清",山东卫视4K超高清
+rtsp://115.153.232.118:554/PLTV/88888888/224/3221227282/125164357.smil?
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="电信-超高清",四川卫视4K超高清
+rtsp://115.153.232.120:554/PLTV/88888888/224/3221227284/125164272.smil?
+#EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="电信-超高清",CCTV超高清-4KHDR
+rtsp://115.153.232.70:554/PLTV/88888888/224/3221227264/121457958.smil?
+#EXTINF:-1 tvg-id="7249" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="电信-超高清",CCTV16奥林匹克-4KHDR
+rtsp://115.153.232.124:554/PLTV/88888888/224/3221227266/122339613.smil?
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数4K.png" group-title="电信-超高清",华数4K
+rtsp://115.153.247.80/PLTV/88888888/224/3221227025/86502164.smil
+
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西都市.png" group-title="电信-江西",江西都市-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227069/94448631.smil
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西经济生活.png" group-title="电信-江西",江西经济生活-高清
@@ -142,6 +165,25 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227049/90141188.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227072/105246432.smil
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西教育.png" group-title="电信-江西",江西教育-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226942/69552502.smil
+#EXTINF:-1 group-title="电信-江西",南昌新闻综合
+rtsp://115.153.232.105:554/PLTV/88888888/224/3221227078/113409131.smil?
+#EXTINF:-1 group-title="电信-江西",南昌都市
+rtsp://115.153.215.113:554/PLTV/88888888/224/3221227075/113409249.smil?
+#EXTINF:-1 group-title="电信-江西",南昌资讯
+rtsp://115.153.254.81/PLTV/88888888/224/3221227080/113409255.smil?
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="电信-江西",九江新闻综合
+rtsp://115.153.245.70/PLTV/88888888/224/3221227268/122499157.smil
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="电信-江西",九江公共
+rtsp://115.153.245.70/PLTV/88888888/224/3221227270/122499168.smil
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="电信-江西",九江教育
+rtsp://115.153.245.70/PLTV/88888888/224/3221227272/122501308.smil
+#EXTINF:-1 group-title="电信-江西",赣州新闻综合
+rtsp://115.153.230.145/PLTV/88888888/224/3221227254/121266741.smil
+#EXTINF:-1 group-title="电信-江西",赣州公共
+rtsp://115.153.230.145/PLTV/88888888/224/3221227262/121375235.smil
+#EXTINF:-1 group-title="电信-江西",赣州教育
+rtsp://115.153.230.145/PLTV/88888888/224/3221227263/121375179.smil
+
 #EXTINF:-1 tvg-id="2025" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰纪实.png" group-title="电信-地方",湖南-金鹰纪实-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226823/59781863.smil
 #EXTINF:-1 tvg-id="6602" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/先锋乒羽.png" group-title="电信-地方",湖南-先锋乒羽
@@ -188,38 +230,40 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226822/59781815.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226824/59781846.smil
 #EXTINF:-1 tvg-id="6573" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汽摩.png" group-title="电信-地方",汽摩
 rtsp://115.153.247.80/PLTV/88888888/224/3221226819/59781852.smil
-#EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="港台频道",凤凰中文
-https://migu.188766.xyz/?migutoken=9f6c6d951fa06689fcfa9d40f91f3cbf&id=fhzw&pp=1
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="港台频道",凤凰资讯
-https://migu.188766.xyz/?migutoken=ec4b22d7a2ec05d3f0872ffad0383c2c&id=fhzx&pp=1
-#EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="港台频道",凤凰香港
-https://migu.188766.xyz/?migutoken=4f72886165858ad175772a0c84577e9e&id=fhhk&pp=1
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港台频道",翡翠台
-https://migu.188766.xyz/?migutoken=b509a69a37c801c328a5180f875e58e7&id=jade_twn&type=dy
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港台频道",翡翠台
-https://migu.188766.xyz/?migutoken=6558459625246ef5c6527c029e7fbb86&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-#EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港台频道",无线新闻
-https://migu.188766.xyz/?migutoken=e48904413e17cea4660d7a1b10102dc5&id=inews_twn&type=dy
-#EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="港台频道",TVB星河
-https://migu.188766.xyz/?migutoken=4f3ca766bc7fe12c13163289c203925b&id=Xinhe&type=dy
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港台频道",明珠台
-https://migu.188766.xyz/?migutoken=09c70bc9db1f134aba501c571a860f91&id=pearl_twn&type=dy
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港台频道",华丽翡翠台
-https://migu.188766.xyz/?migutoken=a363f019ffe92839788c83cab75ca0c1&id=Tvbjade&type=dy
-#EXTINF:-1 tvg-id="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="港台频道",千禧经典
-https://migu.188766.xyz/?migutoken=eeaa3aef91ea12dfdeb133d71ee105e0&id=Tvbclassic&type=dy
-#EXTINF:-1 tvg-id="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港台频道",天映经典
-https://migu.188766.xyz/?migutoken=5815f1997bbe4af3a60ea0ff3fb679e2&id=Celestial2&type=dy
-#EXTINF:-1 tvg-id="天映电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港台频道",天映电影
-https://migu.188766.xyz/?migutoken=c658d1380a52b5cad97501d16ba0ff34&id=Celestial&type=dy
-#EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAOD.png" group-title="港台频道",Astro AOD
-https://migu.188766.xyz/?migutoken=b8c0011a494cbc36b8ee3004eebb6e9c&id=Aodhd&type=dy
-#EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAEC.png" group-title="港台频道",Astro AEC
-https://migu.188766.xyz/?migutoken=8f757edd37f9469c093b19dc166f704c&id=AEC&type=dy
-#EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTROQUANJIA.png" group-title="港台频道",Astro QJ
-https://migu.188766.xyz/?migutoken=2d6a46abb8f81a11e374543662ff348c&id=Quanjia&type=dy
-#EXTINF:-1 tvg-id="Astro 欢喜" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTRO欢喜.png" group-title="港台频道",Astro 欢喜
-https://migu.188766.xyz/?migutoken=ab08eb68bb04c7fba49f5ff5239200cd&id=Huahee&type=dy
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="电信-粤语频道",凤凰中文
+https://migu.188766.xyz/?migutoken=9df3e9ee837c95be6247af9b339990dd&id=fhzw&pp=1
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="电信-粤语频道",凤凰资讯
+https://migu.188766.xyz/?migutoken=4f3c54ad7671602ca75f767390ab5440&id=fhzx&pp=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="电信-粤语频道",凤凰香港
+https://migu.188766.xyz/?migutoken=f81c1d360572fee0d8fc9320f52f3c63&id=fhhk&pp=1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="电信-粤语频道",翡翠台
+https://migu.188766.xyz/?migutoken=11289110828dcb2e2e14ce7b2815e87f&id=jade_twn&type=dy
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="电信-粤语频道",翡翠台
+https://migu.188766.xyz/?migutoken=60aa995aa2c4b47b5baa0ef3b9545a9b&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="电信-粤语频道",无线新闻
+https://migu.188766.xyz/?migutoken=00f6a5e4f6c3165ca70daac1b35cd894&id=inews_twn&type=dy
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="电信-粤语频道",TVB星河
+https://migu.188766.xyz/?migutoken=43af3f2e1b83dfc42ea0ec8073f1c525&id=Xinhe&type=dy
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="电信-粤语频道",明珠台
+https://migu.188766.xyz/?migutoken=fadb70762712f4a6d26d00013d0e53ff&id=pearl_twn&type=dy
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/华丽翡翠台.png" group-title="电信-粤语频道",华丽翡翠台
+https://migu.188766.xyz/?migutoken=13c3f605fd6b997921cb338b5057ea3b&id=Tvbjade&type=dy
+#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/千禧经典.png" group-title="电信-粤语频道",千禧经典
+https://migu.188766.xyz/?migutoken=5022ae2ffaa1f513480c82efd20ce8bf&id=Tvbclassic&type=dy
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/天映经典.png" group-title="电信-粤语频道",天映经典
+https://migu.188766.xyz/?migutoken=eb9640ba47ebec0a552767e7c90bd528&id=Celestial2&type=dy
+#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/天映电影.png" group-title="电信-粤语频道",天映电影
+https://migu.188766.xyz/?migutoken=b348fe5f43591ffff07f67799d89cc36&id=Celestial&type=dy
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAOD.png" group-title="电信-粤语频道",Astro AOD
+https://migu.188766.xyz/?migutoken=a94f0b9466a2d8dd5e9f4ad064d9acbf&id=Aodhd&type=dy
+#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAEC.png" group-title="电信-粤语频道",Astro AEC
+https://migu.188766.xyz/?migutoken=2706047dad656f4de0386d14a274300d&id=AEC&type=dy
+#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTROQUANJIA.png" group-title="电信-粤语频道",Astro QJ
+https://migu.188766.xyz/?migutoken=108c0b785b8c67c59dccafcd33d6333c&id=Quanjia&type=dy
+#EXTINF:-1 tvg-id="Astro 欢喜" tvg-name="Astro 欢喜" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTRO欢喜.png" group-title="电信-粤语频道",Astro 欢喜
+https://migu.188766.xyz/?migutoken=422eea2271802d06e325f6e86530eb65&id=Huahee&type=dy
+
 #EXTINF:-1 tvg-id="20" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN英语.png" group-title="电信-央视",CGTN-英语
 rtsp://115.153.247.80/PLTV/88888888/224/3221226947/77798966.smil
 #EXTINF:-1 tvg-id="20" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="电信-央视",CGTN-英文纪录
@@ -322,8 +366,8 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227023/86502069.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227042/86502073.smil
 #EXTINF:-1 group-title="电信-IPTV",爱体育-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227044/86502115.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数4K.png" group-title="电信-华数",华数4K
-rtsp://115.153.247.80/PLTV/88888888/224/3221227025/86502164.smil
+
+
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="移动-央视",CCTV1综合-高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/01.m3u8?fmt=ts2hls
@@ -455,8 +499,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/01.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="移动-央视",CCTV-16
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/01.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="移动-央视",CCTV-16 4K
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/01.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="移动-央视",CCTV-17
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226335/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="移动-央视",CCTV-17
@@ -753,14 +796,31 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/01.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纯享4K.png" group-title="移动-未分类",纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/01.m3u8
-#EXTINF:-1 tvg-id="30" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="移动-卫视",北京卫视4K
+
+#EXTINF:-1 tvg-id="30" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="移动-超高清",北京卫视4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="30" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="移动-卫视",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="移动-超高清",北京卫视4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/01.m3u8
-#EXTINF:-1 tvg-id="33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="移动-卫视",广东卫视4K
+#EXTINF:-1 tvg-id="33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="移动-超高清",广东卫视4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="34" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="移动-卫视",深圳卫视4K
+#EXTINF:-1 tvg-id="34" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="移动-超高清",深圳卫视4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="移动-超高清",湖南卫视4K超高清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226398/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="移动-超高清",浙江卫视4K超高清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="移动-超高清",江苏卫视4K超高清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226401/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="移动-超高清",东方卫视4K超高清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226429/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="移动-超高清",山东卫视4K超高清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="移动-超高清",四川卫视4K超高清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226424/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="7249" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="移动-超高清",CCTV-16 4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/01.m3u8?fmt=ts2hls
+
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西都市.png" group-title="移动-江西",江西都市
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="移动-江西",江西经济·生活
