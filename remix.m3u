@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
+#EXTM3U x-tvg-url="https://fy.188766.xyz/all.xml.gz"
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="电信-央视",CCTV1综合-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221225699/iptv8040.smil
