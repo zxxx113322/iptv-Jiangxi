@@ -126,9 +126,9 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226821/59781859.smil
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江西卫视.png" group-title="卫视频道",江西卫视
 rtsp://115.153.247.80/PLTV/88888888/224/3221226656/46275837.smil
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="超高清",CCTV超高清-4KHDR
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="超高清",CCTV4K
 rtsp://115.153.232.70:554/PLTV/88888888/224/3221227264/121457958.smil?
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超高清",CCTV16奥林匹克-4KHDR
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超高清",CCTV16奥林匹克
 rtsp://115.153.232.124:554/PLTV/88888888/224/3221227266/122339613.smil?
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="超高清",湖南卫视4K超高清
 rtsp://115.153.232.119:554/PLTV/88888888/224/3221227281/125163700.smil?
