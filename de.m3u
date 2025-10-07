@@ -7,7 +7,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226825/59814584.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226930/65406412.smil
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视",CCTV4
 rtsp://115.153.247.80/PLTV/88888888/224/3221226838/59814684.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV5
 rtsp://115.153.247.80/PLTV/88888888/224/3221226907/65396401.smil
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视",CCTV5+
 rtsp://115.153.247.80/PLTV/88888888/224/3221226976/85722488.smil
@@ -33,15 +33,15 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226634/51813368.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226988/85722541.smil
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视",CCTV17
 rtsp://115.153.247.80/PLTV/88888888/224/3221226846/61397282.smil
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4EUO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
 rtsp://115.153.247.80/PLTV/88888888/224/3221226964/77799053.smil
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4AME" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="央视",CCTV4美洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="央视",CCTV4美洲
 rtsp://115.153.247.80/PLTV/88888888/224/3221226962/77799052.smil
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视台球.png" group-title="央视",CCTV央视台球-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="央视",CCTV央视文化精品-高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="央视",CCTV央视文化精品-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央视",电视指南-高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央视",电视指南-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视",CCTV第一剧场-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
@@ -327,4 +327,3 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227023/86502069.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227042/86502073.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",爱体育-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227044/86502115.smil
-
