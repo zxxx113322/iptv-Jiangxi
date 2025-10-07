@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://show.188766.xyz/e.xml
+#EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV1综合-高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/01.m3u8?fmt=ts2hls
