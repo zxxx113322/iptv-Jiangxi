@@ -219,8 +219,6 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226959/86128800.smil
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="地方",CHC动作电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226992/86128817.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江.png" group-title="地方",九江教育频道
-rtsp://115.153.247.80/PLTV/88888888/224/3221225607/iptv7994.smil
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/财富天下.png" group-title="地方",财富天下
 rtsp://115.153.247.80/PLTV/88888888/224/3221227068/95616594.smil
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="地方",国学
