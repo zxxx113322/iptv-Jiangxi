@@ -39,23 +39,23 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226964/77799053.smil
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 rtsp://115.153.247.80/PLTV/88888888/224/3221226962/77799052.smil
 
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视台球.png" group-title="央视频道",CCTV央视台球-高清
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视台球.png" group-title="央视频道",CCTV央视台球
 rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="央视频道",CCTV央视文化精品-高清
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="央视频道",CCTV央视文化精品
 rtsp://115.153.247.80/PLTV/88888888/224/3221226957/86128679.smil
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央视频道",电视指南-高清
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央视频道",CCTV电视指南
 rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场"  tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视频道",CCTV第一剧场-高清
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场"  tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视频道",CCTV第一剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="央视频道",CCTV风云音乐-高清
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="央视频道",CCTV风云音乐
 rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场-高清
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央视频道",CCTV女性时尚-高清
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央视频道",CCTV女性时尚
 rtsp://115.153.247.80/PLTV/88888888/224/3221226998/86128978.smil
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球-高清
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
 rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="央视频道",CCTV风云足球-高清
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="央视频道",CCTV风云足球
 rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央视频道",CCTV兵器科技
 rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
