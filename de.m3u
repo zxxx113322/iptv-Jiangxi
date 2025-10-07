@@ -147,8 +147,6 @@ rtsp://10.191.254.214:554/PLTV/88888888/224/3221227250/119886708.smil?
 rtsp://115.153.232.124:554/PLTV/88888888/224/3221227267/122676407.smil?
 #EXTINF:-1 tvg-id="深圳卫视"tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="超高清",深圳卫视4K超高清
 rtsp://115.153.232.195:554/PLTV/88888888/224/3221227269/122676542.smil?
-#EXTINF:-1 tvg-id="深圳卫视"tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="超高清",深圳卫视4K超高清
-rtsp://115.153.247.80/PLTV/88888888/224/3221225609/iptv7995.smil
 #EXTINF:-1 tvg-id="山东卫视"tvg-name="山东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="超高清",山东卫视4K超高清
 rtsp://115.153.232.118:554/PLTV/88888888/224/3221227282/125164357.smil?
 #EXTINF:-1 tvg-id="四川卫视"tvg-name="四川卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="超高清",四川卫视4K超高清
