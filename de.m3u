@@ -216,14 +216,16 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227076/108965819.smil
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="地方",中国教育1台-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226858/63768493.smil
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育2.png" group-title="地方",中国教育2台
+rtsp://115.153.245.70/PLTV/88888888/224/3221226978/85722625.smil
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="地方",中国教育4台
+rtsp://115.153.247.80/PLTV/88888888/224/3221226905/65242632.smil
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实科教.png" group-title="地方",纪实科教-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227074/108965751.smil
 #EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="地方",卡酷卡通
 rtsp://115.153.247.80/PLTV/88888888/224/3221225566/iptv101695.smil
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-id="6010" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="地方",嘉佳卡通
 rtsp://115.153.247.80/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="地方",中国教育4台
-rtsp://115.153.247.80/PLTV/88888888/224/3221226905/65242632.smil
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="地方",CHC影迷电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="地方",CHC家庭影院
