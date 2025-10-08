@@ -291,13 +291,14 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227009/86502150.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227013/86502094.smil
 #EXTINF:-1 tvg-name="星影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="华数",星影
 rtsp://115.153.247.80/PLTV/88888888/224/3221227042/86502073.smil
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV谍战剧场.png" group-title="华数",谍战剧场
+rtsp://115.153.247.80/PLTV/88888888/224/3221227016/86441085.smil
 
 
 
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/热播剧场.png" group-title="IPTV",热播剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221227008/86440955.smil
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV谍战剧场.png" group-title="IPTV",IPTV谍战剧场
-rtsp://115.153.247.80/PLTV/88888888/224/3221227016/86441085.smil
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV相声小品.png" group-title="IPTV",IPTV相声小品
 rtsp://115.153.247.80/PLTV/88888888/224/3221226989/86441091.smil
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV野外.png" group-title="IPTV",野外
