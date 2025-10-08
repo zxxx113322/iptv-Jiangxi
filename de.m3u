@@ -224,7 +224,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227074/108965751.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221225566/iptv101695.smil
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-id="6010" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="地方",嘉佳卡通
 rtsp://115.153.247.80/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
-#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="地方",中国教育4
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="地方",中国教育4台
 rtsp://115.153.247.80/PLTV/88888888/224/3221226905/65242632.smil
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="地方",CHC影迷电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -271,9 +271,9 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226985/86441021.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227014/86441032.smil
 
 
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV军旅剧场.png" group-title="华数",军旅剧场
+#EXTINF:-1 tvg-name="华数军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV军旅剧场.png" group-title="华数",华数军旅剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221226995/86441107.smil
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/古装剧场.png" group-title="华数",古装剧场
+#EXTINF:-1 tvg-name="华数古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/古装剧场.png" group-title="华数",华数古装剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221227020/86441115.smil
 #EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/喜剧影院.png" group-title="华数",喜剧影院
 rtsp://115.153.247.80/PLTV/88888888/224/3221226997/86441126.smil
