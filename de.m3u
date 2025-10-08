@@ -130,9 +130,9 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221225755/iptv101726.smil
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 rtsp://115.153.247.80/PLTV/88888888/224/3221225591/iptv7986.smil
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-rtsp://115.153.247.80/PLTV/88888888/224/3221225550/iptv61197.smil
+rtsp://115.153.245.70/PLTV/88888888/224/3221227273/123649589.smil
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-rtsp://115.153.247.80/PLTV/88888888/224/3221225753/iptv101723.smil
+rtsp://115.153.245.70/PLTV/88888888/224/3221227278/123649594.smil
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河北卫视.png" group-title="卫视频道",河北卫视
 rtsp://115.153.247.80/PLTV/88888888/224/3221226821/59781859.smil
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江西卫视.png" group-title="卫视频道",江西卫视
