@@ -310,7 +310,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227001/86441055.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227024/86441150.smil
 #EXTINF:-1 group-title="IPTV",好学生
 rtsp://115.153.247.80/PLTV/88888888/224/3221227026/86441141.smil
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="IPTV",国学
+#EXTINF:-1 tvg-name="IPTV国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV国学.png" group-title="IPTV",IPTV国学
 rtsp://115.153.247.80/PLTV/88888888/224/3221227028/86441216.smil
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏曲.png" group-title="IPTV",戏曲
 rtsp://115.153.247.80/PLTV/88888888/224/3221227030/86441159.smil
