@@ -59,6 +59,18 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央视频道",CCTV兵器科技
 rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN英语.png" group-title="央视频道",CGTN-英语
+rtsp://115.153.247.80/PLTV/88888888/224/3221226947/77798966.smil
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN-英文纪录
+rtsp://115.153.247.80/PLTV/88888888/224/3221226960/77798993.smil
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png" group-title="央视频道",CGTN-西班牙语
+rtsp://115.153.247.80/PLTV/88888888/224/3221226949/77798970.smil
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="央视频道",CGTN-法语
+rtsp://115.153.247.80/PLTV/88888888/224/3221226968/77799060.smil
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="央视频道",CGTN-俄语
+rtsp://115.153.247.80/PLTV/88888888/224/3221226966/77798997.smil
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道",CGTN
+rtsp://115.153.247.80/PLTV/88888888/224/3221226694/55738457.smil
 
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -128,7 +140,6 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226656/46275837.smil
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="卫视频道",厦门卫视
 rtsp://115.153.247.80/PLTV/88888888/224/3221226982/85722609.smil
 
-
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="超高清",CCTV4K
 rtsp://115.153.232.70:554/PLTV/88888888/224/3221227264/121457958.smil?
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超高清",CCTV16奥林匹克
@@ -153,6 +164,7 @@ rtsp://115.153.232.118:554/PLTV/88888888/224/3221227282/125164357.smil?
 rtsp://115.153.232.120:554/PLTV/88888888/224/3221227284/125164272.smil?
 #EXTINF:-1 tvg-id="4k电影"tvg-name="4k电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数4K.png" group-title="超高清",华数4K
 rtsp://115.153.247.80/PLTV/88888888/224/3221227025/86502164.smil
+
 
 #EXTINF:-1 tvg-id="江西都市"tvg-name="江西都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西都市.png" group-title="江西",江西都市-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227069/94448631.smil
@@ -189,33 +201,36 @@ rtsp://115.153.230.145/PLTV/88888888/224/3221227262/121375235.smil
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/赣州教育.png" group-title="江西",赣州教育
 rtsp://115.153.230.145/PLTV/88888888/224/3221227263/121375179.smil
 
-#EXTINF:-1 tvg-id="2025" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰纪实.png" group-title="地方",湖南-金鹰纪实-高清
+
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰纪实.png" group-title="地方",湖南-金鹰纪实-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226823/59781863.smil
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/先锋乒羽.png" group-title="地方",湖南-先锋乒羽
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/先锋乒羽.png" group-title="地方",湖南-先锋乒羽
 rtsp://115.153.247.80/PLTV/88888888/224/3221226935/72307307.smil
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰卡通.png" group-title="地方",湖南-金鹰卡通-高清
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南金鹰卡通.png" group-title="地方",湖南-先锋乒羽-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226972/80382319.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南茶.png" group-title="地方",湖南-茶-高清
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南茶.png" group-title="地方",湖南-茶-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226832/59781969.smil
-#EXTINF:-1 tvg-id="67" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="地方",卡酷少儿-高清
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南快乐垂钓.png" group-title="地方",湖南-快乐垂钓-高
+rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="地方",卡酷少儿-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227076/108965819.smil
-#EXTINF:-1 tvg-id="73" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="地方",中国教育1-高清
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="地方",中国教育1台-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226858/63768493.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/炫动卡通.png" group-title="地方",炫动卡通
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/炫动卡通.png" group-title="地方",炫动卡通
 rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实科教.png" group-title="地方",纪实科教-高清
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实科教.png" group-title="地方",纪实科教-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227074/108965751.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="地方",卡酷卡通
+#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="地方",卡酷卡通
 rtsp://115.153.247.80/PLTV/88888888/224/3221225566/iptv101695.smil
-#EXTINF:-1 tvg-id="6010" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-id="6010" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="地方",嘉佳卡通
 rtsp://115.153.247.80/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
-#EXTINF:-1 tvg-id="7245" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="地方",中国教育4
+#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="地方",中国教育4
 rtsp://115.153.247.80/PLTV/88888888/224/3221226905/65242632.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="地方",CHC影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="地方",CHC影迷电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-#EXTINF:-1 tvg-id="6246" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="地方",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="地方",CHC家庭影院
 rtsp://115.153.247.80/PLTV/88888888/224/3221226959/86128800.smil
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="地方",CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="地方",CHC动作电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226992/86128817.smil
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/财富天下.png" group-title="地方",财富天下
 rtsp://115.153.247.80/PLTV/88888888/224/3221227068/95616594.smil
@@ -223,53 +238,38 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227068/95616594.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221226797/59781463.smil
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/文物宝库.png" group-title="地方",文物宝库-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226808/59781526.smil
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南快乐垂钓.png" group-title="地方",湖南-快乐垂钓-高
-rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梨园.png" group-title="地方",梨园-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226822/59781815.smil
 #EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武术世界.png" group-title="地方",武术世界-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226824/59781846.smil
-#EXTINF:-1 tvg-id="6573" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汽摩.png" group-title="地方",汽摩
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汽摩.png" group-title="地方",汽摩
 rtsp://115.153.247.80/PLTV/88888888/224/3221226819/59781852.smil
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN英语.png" group-title="央视",CGTN-英语
-rtsp://115.153.247.80/PLTV/88888888/224/3221226947/77798966.smil
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视",CGTN-英文纪录
-rtsp://115.153.247.80/PLTV/88888888/224/3221226960/77798993.smil
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png" group-title="央视",CGTN-西班牙语
-rtsp://115.153.247.80/PLTV/88888888/224/3221226949/77798970.smil
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="央视",CGTN-法语
-rtsp://115.153.247.80/PLTV/88888888/224/3221226968/77799060.smil
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="央视",CGTN-俄语
-rtsp://115.153.247.80/PLTV/88888888/224/3221226966/77798997.smil
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视",CGTN
-rtsp://115.153.247.80/PLTV/88888888/224/3221226694/55738457.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png" group-title="地方",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png" group-title="地方",山东教育卫视
 rtsp://115.153.247.80/PLTV/88888888/224/3221226980/85722602.smil
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="卫视",厦门卫视
-rtsp://115.153.247.80/PLTV/88888888/224/3221226982/85722609.smil
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="地方",书画
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="地方",书画
 rtsp://115.153.247.80/PLTV/88888888/224/3221226971/86128924.smil
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新动漫.png" group-title="地方",新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新动漫.png" group-title="地方",新动漫
 rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
-#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观.png" group-title="地方",环球奇观
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观.png" group-title="地方",环球奇观
 rtsp://115.153.247.80/PLTV/88888888/224/3221226977/86128939.smil
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四海钓鱼.png" group-title="地方",四海钓鱼
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四海钓鱼.png" group-title="地方",四海钓鱼
 rtsp://115.153.247.80/PLTV/88888888/224/3221227048/86502173.smil
-#EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球旅游.png" group-title="地方",环球旅游
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球旅游.png" group-title="地方",环球旅游
 rtsp://115.153.247.80/PLTV/88888888/224/3221227033/86502177.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优优宝贝.png" group-title="地方",优优宝贝
+
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优优宝贝.png" group-title="地方",优优宝贝
 rtsp://115.153.247.80/PLTV/88888888/224/3221227050/86502131.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国天气.png" group-title="地方",中国天气
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国天气.png" group-title="地方",中国天气
 rtsp://115.153.247.80/PLTV/88888888/224/3221227056/89471929.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/少儿动画.png" group-title="华数",少儿动画
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/少儿动画.png" group-title="华数",少儿动画
 rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/热播剧场.png" group-title="华数",热播剧场
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/热播剧场.png" group-title="华数",热播剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221227008/86440955.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="华数",经典电影
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="华数",经典电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221227010/86440860.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC最爱电影.png" group-title="华数",爱电影
+#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC最爱电影.png" group-title="华数",爱电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226985/86441021.smil
-#EXTINF:-1 group-title="华数",爱大剧
+#EXTINF:-1 tvg-name="爱大剧" group-title="华数",爱大剧
 rtsp://115.153.247.80/PLTV/88888888/224/3221227014/86441032.smil
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV谍战剧场.png" group-title="IPTV",IPTV谍战剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221227016/86441085.smil
