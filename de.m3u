@@ -327,7 +327,7 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221227036/86502103.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227019/86502107.smil
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="IPTV",军事
 rtsp://115.153.247.80/PLTV/88888888/224/3221227038/86502156.smil
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K地理.png" group-title="IPTV",地理
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/地理.png" group-title="IPTV",地理
 rtsp://115.153.247.80/PLTV/88888888/224/3221227040/86502111.smil
 #EXTINF:-1 group-title="IPTV",美妆
 rtsp://115.153.247.80/PLTV/88888888/224/3221227021/86502160.smil
