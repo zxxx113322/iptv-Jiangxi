@@ -216,8 +216,6 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
 rtsp://115.153.247.80/PLTV/88888888/224/3221227076/108965819.smil
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="地方",中国教育1台-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221226858/63768493.smil
-#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/炫动卡通.png" group-title="地方",炫动卡通
-rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实科教.png" group-title="地方",纪实科教-高清
 rtsp://115.153.247.80/PLTV/88888888/224/3221227074/108965751.smil
 #EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="地方",卡酷卡通
