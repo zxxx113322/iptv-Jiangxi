@@ -141,6 +141,8 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226982/85722609.smil
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="超高清",CCTV4K
 rtsp://115.153.232.70:554/PLTV/88888888/224/3221227264/121457958.smil?
+rtsp://115.153.247.80/PLTV/88888888/224/3221225615/iptv7998.smil
+rtsp://115.153.247.80/PLTV/88888888/224/3221227073/106537394.smil
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超高清",CCTV16奥林匹克
 rtsp://115.153.232.124:554/PLTV/88888888/224/3221227266/122339613.smil?
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="超高清",湖南卫视4K超高清
